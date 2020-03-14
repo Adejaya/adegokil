@@ -1,9 +1,9 @@
 pkg install git python2
 pip2 install --upgrade pip
-git clone https://github.com/Adejaya/Rayden
-cd Rayden
+git clone https://github.com/Adejaya/adegokil/edit/master/ngoks
+cd ngoks
 pip2 install -r requirements.txt
-python2 ray.py
+python2 ngoks.py
 
 
 
